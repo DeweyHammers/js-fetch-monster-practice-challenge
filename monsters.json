@@ -6005,6 +6005,41 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Hakunai",
+      "age": 1,
+      "description": "This is my new Monster",
+      "id": 1002
+    },
+    {
+      "name": "Test",
+      "description": "Test 1",
+      "id": 1003
+    },
+    {
+      "name": "test2",
+      "age": "1",
+      "description": "testing with age",
+      "id": 1004
+    },
+    {
+      "name": "test3",
+      "age": "1111",
+      "description": "test3",
+      "id": 1005
+    },
+    {
+      "name": "test4",
+      "age": "111",
+      "description": "test4",
+      "id": 1006
+    },
+    {
+      "name": "TEST",
+      "age": 1223,
+      "description": "TEST",
+      "id": 1007
     }
   ]
 }
